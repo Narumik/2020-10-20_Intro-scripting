@@ -235,7 +235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 724f629e46de98643a5564c2b31320f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabBoid: {fileID: 0}
+  prefabBoid: {fileID: 1717194613}
   nbBoids: 100
   startSpeed: 1
   startSpread: 10
